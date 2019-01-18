@@ -1,0 +1,13 @@
+
+
+camelCase
+twoHumpCamel
+
+TitleCase
+PascalCase
+
+kebob-camelCase
+
+snake_case
+
+README
